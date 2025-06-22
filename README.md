@@ -18,9 +18,7 @@ The SmartHome Energy Predictor combines interactive data visualization with adva
 - **🎛️ Interactive Controls**: Adjust forecast horizons and compare model performance
 - **📊 Confidence Intervals**: Understand prediction uncertainty with visual confidence bands
 
-## 🚀 Demo
 
-Visit the live demo: [SmartHome Energy Predictor](your-deployment-url-here)
 
 ## 📋 Table of Contents
 
