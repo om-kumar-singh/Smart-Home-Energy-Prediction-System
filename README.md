@@ -1,4 +1,4 @@
-# SmartHome Energy Predictor
+# Smart Home Energy Predictor
 
 A web-based energy consumption visualization and prediction tool that helps homeowners understand, analyze, and forecast their energy usage patterns using machine learning models.
 
